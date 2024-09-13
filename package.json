@@ -67,7 +67,7 @@
     "vitest": "^1.6.0"
   },
   "dependencies": {
-    "jimp": "^1.0.2",
+    "jimp": "^1.0.3",
     "@apollo/client": "^3.10.5",
     "@efstajas/svelte-stored-writable": "^0.2.0",
     "@efstajas/versioned-parser": "^0.1.4",
