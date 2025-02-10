@@ -83,7 +83,7 @@
     "@tanstack/svelte-table": "^8.17.3",
     "@uniswap/default-token-list": "^12.11.0",
     "@uniswap/token-lists": "^1.0.0-beta.34",
-    "@web3-onboard/core": "^2.22.1",
+    "@web3-onboard/core": "^2.24.0",
     "@web3-onboard/injected-wallets": "^2.11.1",
     "@web3-onboard/walletconnect": "^2.6.1",
     "cupertino-pane": "^1.4.21",
