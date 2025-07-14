@@ -99,7 +99,7 @@
     "radicle-drips": "github:drips-network/sdk",
     "redis": "^4.6.14",
     "sanitize-html": "^2.13.0",
-    "satori": "^0.10.13",
+    "satori": "^0.15.2",
     "satori-html": "^0.3.2",
     "twemoji": "^14.0.2",
     "zod": "^3.23.8"
